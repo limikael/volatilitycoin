@@ -1,0 +1,4 @@
+volatilitycoin
+==============
+
+VolatilityCoin wallet source
